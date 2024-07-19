@@ -1,4 +1,5 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://sarbajitacharjee.io)
+[![MasterHead](https://camo.githubusercontent.com/371a3bbae1297d47d50006f91fdc0f51f0060b62dbbddbdba1b1b1438bc0f80d/68747470733a2f2f6d617275663030312d6d742e6769746875622e696f2f5072656d69756d2d44656c69766572792f7765622e676966)](https://sarbajitacharjee.io)
+
 
 
 <h1 align="center">Hi 👋, I'm Sarbajit Acharjee</h1>
@@ -22,7 +23,7 @@
 
 - 📄 Know about my experiences [aiapply.co/r/669a32c833ec1](aiapply.co/r/669a32c833ec1)
 
-- ⚡ Fun fact **I am Funny & Shy But if we get Connected I am a person You would Never leave 😎(❁´◡`❁)**
+- ⚡ Fun fact **I am Funny & Shy But if we get Connected I am a person You would never want to leave 😎(❁´◡`❁)**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
